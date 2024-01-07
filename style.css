@@ -95,6 +95,22 @@ z-index: -1;
    height: 70px;
    border-radius: 100%;
 }
+
+.child{
+   display: none;
+}
+.child1{
+   display: block;
+   border-radius: 10px;
+}
+.child2{
+   display: none;
+}
+.child3{
+   display: block;
+   width: 450px;
+   border-radius: 10px;
+}
 /*footer section start*/
 ul {
    margin: 0px;
